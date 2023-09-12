@@ -25,9 +25,5 @@ Go through the link provided below and follow the steps carefully.
             vim --version
 
 
-<style>- Suyash K Sinha {text-align: right}</style>
-
-
-
 
 
