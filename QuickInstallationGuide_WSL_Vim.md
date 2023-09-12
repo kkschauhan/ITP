@@ -25,8 +25,7 @@ Go through the link provided below and follow the steps carefully.
             vim --version
 
 
-<div style="text-align: right">- SKS</div>
-
+<style>- Suyash K Sinha {text-align: right}</style>
 
 
 
